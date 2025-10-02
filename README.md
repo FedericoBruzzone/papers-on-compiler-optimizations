@@ -114,7 +114,7 @@ Type:
 | [Register allocation and exhaustive peephole optimization](https://doi.org/10.1145/364995.365000) | Wiley | SPE | J | 1984 | E |
 | [Automatic generation of peephole optimizations](https://doi.org/10.1145/364995.365000) | Springer | CC | C | 1984 | E |
 | Analysis of interprocedural side effects in a parallel programming environment | Springer | ICSP | C | 1984 | O |
-| Polyvariant mixed computation for analyzer programs | Springer | Acta Inf. | J | 1984 | O |
+| [Polyvariant mixed computation for analyzer programs](https://doi.org/10.1007/BF00264023) | Springer | Acta Inf. | J | 1984 | O |
 | [Stream processing](https://doi.org/10.1145/800055.802021) | ACM | LFP | C | 1984 | O |
 | [A hierarchical basis for reordering transformations](https://doi.org/10.1145/800017.800539) | ACM | POPL | C | 1984 | O |
 | [Register allocation by priority-based coloring](https://doi.org/10.1145/502949.502896) | ACM | PLDI (SCC) | C | 1984 | A, E, O |
@@ -127,9 +127,9 @@ Type:
 | Efficient instruction scheduling for a pipelined architecture | ACM | PLDI (SCC) | C | 1986 | A |
 | [Efficient symbolic analysis of programs](https://doi.org/https://doi.org/10.1016/0022-0000(86)90031-0) | ACM | JCSS | J | 1986 | A |
 | [Graph-Based Algorithms for Boolean Function Manipulation](https://doi.org/10.1109/TC.1986.1676819) | IEEE | TC | J | 1986 | D |
-| Loops skewing: The wavefront method revisited | Springer | JPP | J | 1986 | O |
-| Highly concurrent scalar processing | ACM | CAN | J | 1986 | O |
-| Multiplication by integer constants | Wiley | SPE | J | 1986 | S |
+| [Loops skewing: The wavefront method revisited](https://doi.org/10.1007/BF01407874) | Springer | JPP | J | 1986 | O |
+| [Highly concurrent scalar processing](https://doi.org/10.1145/17356.17404) | ACM | CAN | J | 1986 | O |
+| [Multiplication by integer constants](https://doi.org/10.1002/spe.4380160704) | Wiley | SPE | J | 1986 | S |
 | [Global register allocation at link time](https://doi.org/10.1145/12276.13338) | ACM | PLDI | C | 1986 | A, E |
 | [Interprocedural constant propagation](https://doi.org/10.1145/176454.176526) | ACM | PLDI | C | 1986 | A, D, E, O, S |
 | [Interprocedural optimization: eliminating unnecessary recompilation](https://doi.org/10.1145/12276.13317) | ACM | CC | C | 1986 | A, E, O |
@@ -143,7 +143,7 @@ Type:
 | [Guided Self-Scheduling: A Practical Scheduling Scheme for Parallel Supercomputers](https://doi.org/10.1109/TC.1987.5009495) | IEEE | TCO | J | 1987 | S |
 | Loop coalescing: A compiler transformation for parallel machines | ACM | ICPP | C | 1987 | S |
 | Strategies for cache and local memory management by global program transformation | Springer | ICS | C | 1987 | S |
-| The program dependence graph and its use in optimization | ACM | TOPLAS | J | 1987 | A, E, M, O |
+| [The program dependence graph and its use in optimization](https://doi.org/10.1145/24039.24041) | ACM | TOPLAS | J | 1987 | A, E, M, O |
 | [Automatic translation of Fortran programs to vector form](https://doi.org/10.1145/41625.41631) | ACM | TOPLAS | J | 1987 | D, O, S |
 | [An efficient approach to data flow analysis in a multiple pass global optimizer](https://doi.org/10.1145/960116.54006) | ACM | PLDI | C | 1988 | A |
 | [A solution to a problem with Morel and Renvoise's ``Global optimization by suppression of partial redundancies''](https://doi.org/10.1145/359060.359069) | ACM | TOPLAS | J | 1988 | E |
@@ -158,16 +158,16 @@ Type:
 | Array expansion | ACM | ICS | C | 1988 | S |
 | [Loop quantization: A generalized loop unwinding technique](https://doi.org/https://doi.org/10.1016/0743-7315(88)90013-5) | ACM | JPDC | J | 1988 | S |
 | Supernode partitioning | ACM | PLDI | C | 1988 | S |
-| A fast algorithm for code movement optimisation | ACM | PLDI | C | 1988 | A, E |
+| [A fast algorithm for code movement optimisation](https://doi.org/10.1145/73141.74838) | ACM | PLDI | C | 1988 | A, E |
 | Compiling programs for distributed-memory multiprocessors | Elsevier | JSC | J | 1988 | O, S |
-| Optimal loop parallelization | ACM | PLDI | C | 1988 | A, E, M, S |
+| [Optimal loop parallelization](https://doi.org/10.1145/73141.74840) | ACM | PLDI | C | 1988 | A, E, M, S |
 | [Software pipelining: an effective scheduling technique for VLIW machines](https://doi.org/10.1145/960116.54022) | ACM | PLDI | C | 1988 | D, E |
 | The program summary graph and flow-sensitive interprocedual data flow analysis | ACM | PLDI | C | 1988 | A, O |
 | A framework for determining useful parallelism | ACM | ICS | C | 1988 | O, S |
 | An overview of the PTRAN analysis system for multiprocessing | Elsevier | JPDC | J | 1988 | D, S |
 | [Efficient interprocedural analysis for program parallelization and restructuring](https://doi.org/10.1145/62116.62125) | ACM | PPoPP (PPEALS) | C | 1988 | O, S |
 | Compiling issues for supercomputers | ACM/IEEE | SC | C | 1988 | O, S |
-| Minimizing register usage penalty at procedure calls | ACM | PLDI | C | 1988 | A, S |
+| [Minimizing register usage penalty at procedure calls](https://doi.org/10.1145/73141.74849) | ACM | PLDI | C | 1988 | A, S |
 | Estimating interlock and improving balance for pipelined architectures | Elsevier | JPDC | J | 1988 | O, S |
 | [Global value numbers and redundant computations](https://doi.org/10.1145/73560.73562) | ACM | POPL | C | 1988 | E, O |
 | [Perfect pipelining: A new loop parallelization technique](https://doi.org/10.1145/960116.54022) | Springer | ESOP | C | 1988 | A, S |
@@ -180,7 +180,7 @@ Type:
 | [The program dependence graph and vectorization](https://doi.org/10.1145/75277.75278) | ACM | POPL | C | 1989 | O |
 | [Achieving high instruction cache performance with an optimizing compiler](https://doi.org/10.1145/68182.68200) | ACM | ISCA | C | 1989 | S |
 | Evaluating the performance of four snooping cache coherency protocols | IEEE | ICSA | C | 1989 | S |
-| Scans as primitive parallel operations | IEEE | TCO | J | 1989 | S |
+| [Scans as primitive parallel operations](https://doi.org/10.1109/12.42122) | IEEE | TCO | J | 1989 | S |
 | [Code generation using tree matching and dynamic programming](https://doi.org/10.1145/69558.75700) | ACM | TOPLAS | J | 1989 | A, D, E, M |
 | [Register allocation via clique separators](https://doi.org/10.1145/73141.74842) | ACM | PLDI | C | 1989 | A, E |
 | [Fast interprocedual alias analysis](https://doi.org/10.1145/75277.75282) | ACM | POPL | C | 1989 | A, E, O, S |
@@ -188,14 +188,14 @@ Type:
 | [More iteration space tiling](https://doi.org/10.1145/76263.76337) | ACM/IEEE | SC | C | 1989 | A, S |
 | [Data dependence analysis on multi-dimensional array references](https://doi.org/10.1145/318789.318813) | ACM | ICS | C | 1989 | O, S |
 | [Spill code minimization techniques for optimizing compliers](https://doi.org/10.1145/73141.74841) | ACM | PLDI | C | 1989 | A, E |
-| Customization: Optimizing compiler technology for SELF, a dynamically-typed OOP language  | ACM | PLDI | C | 1989 | O, S |
-| An efficient method of computing static single assignment form | ACM | POPL | C | 1989 | A, O |
+| [Customization: Optimizing compiler technology for SELF, a dynamically-typed OOP language](https://doi.org/10.1145/74877.74922)  | ACM | PLDI | C | 1989 | O, S |
+| [An efficient method of computing static single assignment form](https://doi.org/10.1145/75277.75280) | ACM | POPL | C | 1989 | A, O |
 | [An approach to ordering optimizing transformations](https://doi.org/10.1145/99163.99179) | ACM | PPoPP | C | 1990 | A |
 | [Register allocation across procedure and module boundaries](https://doi.org/10.1145/93548.93551) | ACM | PLDI | C | 1990 | A |
 | [Region Scheduling: An Approach for Detecting and Redistributing Parallelism](https://doi.org/10.1109/32.54294) | IEEE | TSE | J | 1990 | E |
 | [Constructing the procedure call multigraph](https://doi.org/10.1109/32.54302) | IEEE | TSE | J | 1990 | O |
-| On the perfect accuracy of an approximate subscript analysis test | ACM | CAN | J | 1990 | O |
-| Structured dataflow analysis for arrays and its use in an optimizing compiler | Wiley | Software: Practice and Experience | J | 1990 | O |
+| [On the perfect accuracy of an approximate subscript analysis test](https://doi.org/10.1145/93548.93598) | ACM | CAN | J | 1990 | O |
+| [Structured dataflow analysis for arrays and its use in an optimizing compiler](https://doi.org/10.1002/spe.4380200203) | Wiley | Software: Practice and Experience | J | 1990 | O |
 | Compilation of Haskell array comprehensions for scientific computing | ACM | PLDI | C | 1990 | S |
 | [How to read floating point numbers accurately](https://doi.org/10.1145/93548.93557) | ACM | PLDI | C | 1990 | S |
 | [How to print floating-point numbers accurately](https://doi.org/10.1145/93548.93559) | ACM | PLDI | C | 1990 | S |
@@ -207,7 +207,7 @@ Type:
 | [Analysis of pointers and structures](https://doi.org/10.1145/93542.93585) | ACM | PLDI | C | 1990 | A, E |
 | Loop distribution with arbitrary control flow | ACM | PLDI | C | 1990 | O, S |
 | [Graph coloring register allocation for processors with multi-register operands](https://doi.org/10.1145/93548.93552) | ACM | PLDI | C | 1990 | A, E |
-| Register allocation via hierarchical graph coloring | ACM | PLDI | C | 1991 | A |
+| [Register allocation via hierarchical graph coloring](https://doi.org/10.1145/113446.113462) | ACM | PLDI | C | 1991 | A |
 | [Circular scheduling: a new technique to perform software pipelining](https://doi.org/10.1145/113445.113464) | ACM | PLDI | C | 1991 | A |
 | [Efficient DAG construction and heuristic calculation for instruction scheduling](https://doi.org/10.1145/123465.123482) | ACM | MICRO | W | 1991 | E |
 | A composite algorithm for strength reduction and code movement optimization | Springer | ACIS | J | 1991 | E |
@@ -225,12 +225,12 @@ Type:
 | [Practical adaption of the global optimization algorithm of Morel and Renvoise](https://doi.org/10.1145/106972.106981) | ACM | TOPLAS | J | 1991 | A, E |
 | [The cache performance and optimizations of blocked algorithms](https://doi.org/10.1145/106972.106981) | ACM | ASPLOS | C | 1991 | A, D |
 | [A loop transformation theory and an algorithm to maximize parallelism](https://doi.org/10.1145/109025.109077) | IEEE | TPDS | J | 1991 | O, S |
-| Dataflow analysis of array and scalar references | Springer | JPP | J | 1991 | A, S |
+| [Dataflow analysis of array and scalar references](https://doi.org/10.1007/BF01379320) | Springer | JPP | J | 1991 | A, S |
 | [Optimization of array accesses by collective loop transformations](https://doi.org/10.1145/109025.109077) | ACM | SC | C | 1991 | D, O |
 | Interprocedural transformations for parallel code generation | ACM/IEEE | SC | C | 1991 | O, S |
 | [Practical dependence testing](https://doi.org/10.1145/113446.113468) | ACM | PLDI | C | 1991 | A, O |
-| Procedure merging with instruction caches | ACM | PLDI | C | 1991 | A, S |
-| An experiment with inline substitution | Wiley | SPE | J | 1991 | E, S |
+| [Procedure merging with instruction caches](https://doi.org/10.1145/113446.113473) | ACM | PLDI | C | 1991 | A, S |
+| [An experiment with inline substitution](https://doi.org/10.1002/spe.4380210602) | Wiley | SPE | J | 1991 | E, S |
 | Integrating scalar optimization and parallelization | Springer | LCPC | C | 1992 | A |
 | [Sharlit—a tool for building optimizers](https://doi.org/10.1145/143103.143120) | ACM | PLDI | C | 1992 | A |
 | How to analyze large programs efficiently and informatively | ACM | PLDI | C | 1992 | A |
