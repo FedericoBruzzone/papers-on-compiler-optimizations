@@ -70,7 +70,7 @@ Type:
 | Recursion analysis for compiler optimization | ACM | CACM | J | 1976 | O |
 | [Optimal Code Generation for Expression Trees](https://doi.org/10.1145/321958.321970) | ACM | JACM | J | 1976 | A, D, E |
 | [A Fast and Usually Linear Algorithm for Global Flow Analysis](https://doi.org/10.1145/321921.321939) | ACM | JACM | J | 1976 | E, O |
-| Code generation for expressions with common subexpressions | ACM | POPL | C | 1976 | E, S |
+| [Code generation for expressions with common subexpressions](https://doi.org/10.1145/321958.321970) | ACM | POPL | C | 1976 | E, S |
 | Global data flow analysis and iterative algorithms | ACM | JACM | J | 1976 | E, O |
 | [On Live-Dead Analysis for Global Data Flow Problems](https://doi.org/10.1145/322017.322027) | ACM | JACM | J | 1977 | A |
 | [Symbolic evaluation and the global value graph](https://doi.org/10.1145/512950.512961) | ACM | POPL | C | 1977 | A |
@@ -86,7 +86,7 @@ Type:
 | [A practical interprocedural data flow analysis algorithm](https://doi.org/10.1145/359588.359596) | ACM | CACM | J | 1978 | A, D, E, O |
 | [Data Flow Analysis for Procedural Languages](https://doi.org/10.1145/322123.322135) | ACM | JACM | J | 1979 | A |
 | [Constructing the Call Graph of a Program](https://doi.org/10.1109/TSE.1979.234183) | IEEE | TSE | J | 1979 | O |
-| Data flow languages | IEEE | MARK | W | 1979 | S |
+| [Data flow languages](https://doi.org/10.1145/322123.322135) | IEEE | MARK | W | 1979 | S |
 | Time and parallel processor bounds for Fortran-like loops | IEEE | TCO | J | 1979 | S |
 | Unrolling loops in Fortran | Wiley | SPE | J | 1979 | S |
 | [A fast algorithm for finding dominators in a flowgraph](https://doi.org/10.1145/357062.357071) | ACM | TOPLAS | J | 1979 | A, E, M, O |
@@ -102,7 +102,7 @@ Type:
 | [A precise inter-procedural data flow algorithm](https://doi.org/10.1145/567532.567556) | ACM | POPL | C | 1981 | O, S |
 | Register allocation via coloring | Elsevier | COLA (COMLAN) | C | 1981 | A, D, E, O, S |
 | [Reduction of operator strength](https://doi.org/10.1145/359863.359888) | NJ | Program flow analysis | J | 1981 | A, E, S |
-| Dependence graphs and compiler optimizatlons | ACM | POPL | C | 1981 | O, S |
+| [Dependence graphs and compiler optimizatlons](https://doi.org/10.1145/567532.567555) | ACM | POPL | C | 1981 | O, S |
 | On the performance enhancement of paging systems through program analysis and transformations | IEEE | TCO | J | 1981 | D, S |
 | [Optimizing delayed branches](https://doi.org/10.1145/1014194.800941) | ACM | MICRO | W | 1982 | D |
 | A composite hoisting-strength reduction transformation for global program optimization part i | T&F | JCM | J | 1982 | E |
@@ -247,7 +247,7 @@ Type:
 | [A safe approximate algorithm for interprocedural aliasing](https://doi.org/10.1145/143095.143137) | ACM | PLDI | C | 1992 | O |
 | [Relaxing SIMD control flow constraints using loop transformations](https://doi.org/10.1145/143103.143133) | ACM | PLDI | C | 1992 | S |
 | [Unexpected side effects of inline substitution: a case study](https://doi.org/10.1145/130616.130619) | ACM | TOPLAS (LOPLAS) | J | 1992 | S |
-| Eliminating false positives using the omega test | ACM | PLDI | C | 1992 | A, D, O |
+| [Eliminating false positives using the omega test](https://doi.org/10.1145/143103.143129) | ACM | PLDI | C | 1992 | A, D, O |
 | [Lazy code motion](https://doi.org/10.1145/143103.143136) | ACM | PLDI | C | 1992 | A, D, E |
 | [Software support for speculative loads](https://doi.org/10.1145/143365.143484) | ACM | ASPLOS | C | 1992 | A, E |
 | [A practical algorithm for exact array dependence analysis](https://doi.org/10.1145/135226.135233) | ACM | CACM | J | 1992 | O, S |
@@ -264,7 +264,7 @@ Type:
 | [Array-data flow analysis and its use in array privatization](https://doi.org/10.1145/158511.158515) | ACM | POPL | C | 1993 | S |
 | Automatic array alignment in data-parallel programs | ACM | POPL | C | 1993 | S |
 | Global optimizations for parallelism and locality on scalable parallel machines | ACM | PLDI | C | 1993 | S |
-| Instruction-Level Parallel Processing: History, Overview, and Perspective  | Springer | JSC | J | 1993 | S |
+| [Instruction-Level Parallel Processing: History, Overview, and Perspective](https://doi.org/10.1007/978-1-4615-3200-2_3)  | Springer | JSC | J | 1993 | S |
 | A practical system for intermodule code optimization at link-time | C&H | JPL | J | 1993 | A |
 | Loop-level parallelism in numeric and symbolic programs | IEEE | TPDS | J | 1993 | S |
 | [Orchestrating interactions among parallel computations](https://doi.org/10.1145/173262.155100) | ACM | PLDI | C | 1993 | S |
@@ -303,8 +303,8 @@ Type:
 | [Tile size selection using cache organization and data layout](https://doi.org/10.1145/207110.207162) | ACM | PLDI | C | 1995 | E |
 | [Combining analyses, combining optimizations](https://doi.org/10.1145/201059.201061)  | ACM | TOPLAS | J | 1995 | E |
 | [Global code motion/global value numbering](https://doi.org/10.1145/207110.207154) | ACM | PLDI | C | 1995 | E |
-| A linear time algorithm for placing φ-nodes | ACM | POPL | C | 1995 | O |
-| Points-to analysis in linear time | ACM | POPL | C | 1996 | D |
+| [A linear time algorithm for placing φ-nodes](https://doi.org/10.1145/199448.199464) | ACM | POPL | C | 1995 | O |
+| [Points-to analysis in linear time](https://doi.org/10.1145/237721.237727) | ACM | POPL | C | 1996 | D |
 | Aggressive loop unrolling in a retargetable, optimizing compiler  | Springer | CC | C | 1996 | E |
 | Iterated register coalescing | ACM | TOPLAS | J | 1996 | E, M |
 | Improving data locality with loop transformations | ACM | TOPLAS | J | 1996 | E, O |
