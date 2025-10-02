@@ -35,17 +35,17 @@ Type:
 
 | Paper Title | Venue Type | Venue Name | Type | Year | Sources |
 |---|---|---|---|---|---|
-| The problem of simplifying truth functions | T&F | AMM | J | 1952 | O |
-| Minimization of Boolean functions | Bell Labs | Bell System Tech. J. | J | 1956 | O |
-| An algorithm for translating Boolean expressions | ACM | JACM | J | 1962 | S |
+| [The problem of simplifying truth functions](https://doi.org/10.1080/00029890.1952.11988183) | T&F | AMM | J | 1952 | O |
+| [Minimization of Boolean functions](https://doi.org/10.1002/j.1538-7305.1956.tb03835.x) | Bell Labs | Bell System Tech. J. | J | 1956 | O |
+| [An algorithm for translating Boolean expressions](https://doi.org/10.1145/321105.321116) | ACM | JACM | J | 1962 | S |
 | [High speed compilation of efficient object code](https://doi.org/10.1145/365474.365489) | ACM | CACM | J | 1965 | D |
 | [Peephole optimization](https://doi.org/10.1145/364995.365000) | ACM | CACM | J | 1965 | E |
 | [Index Register Allocation](https://doi.org/10.1145/321312.321317) | ACM | JACM | J | 1966 | E |
 | [Analysis of Programs for Parallel Processing](https://doi.org/10.1109/PGEC.1966.264565) | IEEE | TC (TEC) | J | 1966 | O |
 | [Program optimization](https://doi.org/10.1145/68182.68200) | - | PP | C | 1966 | A, D, E, M, O, S |
 | [Object code optimization](https://doi.org/10.1145/362835.362838) | ACM | CACM | J | 1969 | A, D, E |
-| Local optimizations | ACM | PLDI (SCO) | C | 1970 | E |
-| Detection and parallel execution of independent instructions | IEEE | TCO | J | 1970 | S |
+| [Local optimizations](https://doi.org/10.1145/390013.808470) | ACM | PLDI (SCO) | C | 1970 | E |
+| [Detection and parallel execution of independent instructions](https://doi.org/10.1109/TC.1970.222795) | IEEE | TCO | J | 1970 | S |
 | [Global common subexpression elimination](https://doi.org/10.1145/800028.808480) | ACM | PLDI (SCO) | C | 1970 | D, E, M |
 | [The Generation of Optimal Code for Arithmetic Expressions](https://doi.org/10.1145/321607.321620) | ACM | JACM | J | 1970 | D, E, M |
 | [Control flow analysis](https://doi.org/10.1145/390013.808479) | ACM | PLDI (SCO) | C | 1970 | D, E |
@@ -57,17 +57,17 @@ Type:
 | [Safety of code motion](https://doi.org/10.1080/00207167208803056) | T&F | JCM | J | 1972 | O |
 | [On the Number of Operations Simultaneously Executable in Fortran-Like Programs and Their Resulting Speedup](https://doi.org/10.1109/T-C.1972.223501) | IEEE | TCO | J | 1972 | D, O |
 | [Testing flow graph reducibility](https://doi.org/10.1145/800125.804040) | ACM | STOC | C | 1973 | A |
-| A unified approach to global program optimization | ACM | POPL | C | 1973 | A, D, E, M, O, S |
+| [A unified approach to global program optimization](https://doi.org/10.1145/512927.512945) | ACM | POPL | C | 1973 | A, D, E, M, O, S |
 | Fast algorithms for the elimination of common subexpressions | Springer | Acta Inf. | J | 1973 | A, D, E, O |
-| Register allocation via usage counts | ACM | CACM | J | 1974 | A |
+| [Register allocation via usage counts](https://doi.org/10.1145/361179.361204) | ACM | CACM | J | 1974 | A |
 | [Analysis of structured programs](https://doi.org/10.1145/800125.804055) | ACM | STOC | C | 1974 | D |
 | [Characterizations of Reducible Flow Graphs](https://doi.org/10.1145/321832.321835) | ACM | JACM | J | 1974 | D, E |
 | [The parallel execution of DO loops](https://doi.org/10.1145/360827.360844) | ACM | CACM | J | 1974 | D, O |
 | [Interprocedural Data Flow Analysis](https://doi.org/10.1145/567446.567455) | - | IFIP | J | 1974 | D, O |
 | Time and parallel processor bounds for linear recurrence systems | IEEE | TCO | J | 1975 | S |
-| A simple algorithm for global data flow analysis problems | SIAM | SICOMP | J | 1975 | A, E, O |
+| [A simple algorithm for global data flow analysis problems](https://doi.org/10.1137/0204038) | SIAM | SICOMP | J | 1975 | A, E, O |
 | [A program data flow analysis procedure](https://doi.org/10.1145/360018.360025) | ACM | CACM | J | 1976 | A |
-| Recursion analysis for compiler optimization | ACM | CACM | J | 1976 | O |
+| [Recursion analysis for compiler optimization](https://doi.org/10.1145/360349.360355) | ACM | CACM | J | 1976 | O |
 | [Optimal Code Generation for Expression Trees](https://doi.org/10.1145/321958.321970) | ACM | JACM | J | 1976 | A, D, E |
 | [A Fast and Usually Linear Algorithm for Global Flow Analysis](https://doi.org/10.1145/321921.321939) | ACM | JACM | J | 1976 | E, O |
 | [Code generation for expressions with common subexpressions](https://doi.org/10.1145/321958.321970) | ACM | POPL | C | 1976 | E, S |
@@ -100,14 +100,14 @@ Type:
 | [Interprocedural data flow analysis in the presence of pointers, procedure variables, and label variables](https://doi.org/10.1145/567446.567455)  | ACM | POPL | C | 1980 | A, E, O |
 | [Deciding Linear Inequalities by Computing Loop Residues](https://doi.org/10.1145/322276.322288) | ACM | JACM | J | 1981 | D |
 | [A precise inter-procedural data flow algorithm](https://doi.org/10.1145/567532.567556) | ACM | POPL | C | 1981 | O, S |
-| Register allocation via coloring | Elsevier | COLA (COMLAN) | C | 1981 | A, D, E, O, S |
+| [Register allocation via coloring](https://doi.org/10.1016/0096-0551(81)90025-5) | Elsevier | COLA (COMLAN) | C | 1981 | A, D, E, O, S |
 | [Reduction of operator strength](https://doi.org/10.1145/359863.359888) | NJ | Program flow analysis | J | 1981 | A, E, S |
 | [Dependence graphs and compiler optimizatlons](https://doi.org/10.1145/567532.567555) | ACM | POPL | C | 1981 | O, S |
 | On the performance enhancement of paging systems through program analysis and transformations | IEEE | TCO | J | 1981 | D, S |
 | [Optimizing delayed branches](https://doi.org/10.1145/1014194.800941) | ACM | MICRO | W | 1982 | D |
 | A composite hoisting-strength reduction transformation for global program optimization part i | T&F | JCM | J | 1982 | E |
 | [Optimization of range checking](https://doi.org/10.1145/800230.806986) | ACM | PLDI (SCC) | C | 1982 | E |
-| Register allocation and spilling via graph coloring | ACM | PLDI | C | 1982 | A, D, E, M, O, S |
+| [Register allocation and spilling via graph coloring](https://doi.org/10.1145/800230.806981) | ACM | PLDI | C | 1982 | A, D, E, M, O, S |
 | Experience with the SETL optimizer | ACM | TOPLAS | J | 1983 | S |
 | [Postpass Code Optimization of Pipeline Constraints](https://doi.org/10.1145/2166.357217) | ACM | TOPLAS | J | 1983 | A, E |
 | Conversion of control dependence to data dependence | ACM | POPL | C | 1983 | O, S |
