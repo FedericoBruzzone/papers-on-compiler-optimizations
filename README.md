@@ -97,7 +97,7 @@ Type:
 | The design and application of a retargetable peephole optimizer | ACM | TOPLAS | J | 1980 | E |
 | Data flow supercomputers | IEEE | Computer | J | 1980 | S |
 | High-speed multiprocessors and compilation techniques | IEEE | TCO | J | 1980 | S |
-| Interprocedural data flow analysis in the presence of pointers, procedure variables, and label variables  | ACM | POPL | C | 1980 | A, E, O |
+| [Interprocedural data flow analysis in the presence of pointers, procedure variables, and label variables](https://doi.org/10.1145/567446.567455)  | ACM | POPL | C | 1980 | A, E, O |
 | [Deciding Linear Inequalities by Computing Loop Residues](https://doi.org/10.1145/322276.322288) | ACM | JACM | J | 1981 | D |
 | [A precise inter-procedural data flow algorithm](https://doi.org/10.1145/567532.567556) | ACM | POPL | C | 1981 | O, S |
 | Register allocation via coloring | Elsevier | COLA (COMLAN) | C | 1981 | A, D, E, O, S |
@@ -134,7 +134,7 @@ Type:
 | [Interprocedural constant propagation](https://doi.org/10.1145/176454.176526) | ACM | PLDI | C | 1986 | A, D, E, O, S |
 | [Interprocedural optimization: eliminating unnecessary recompilation](https://doi.org/10.1145/12276.13317) | ACM | CC | C | 1986 | A, E, O |
 | Interprocedural dependence analysis and parallelization | ACM | PLDI | C | 1986 | O, S |
-| Effectiveness of a machine-level, global optimizer  | ACM | PLDI (SCC) | C | 1986 | A, E |
+| [Effectiveness of a machine-level, global optimizer](https://doi.org/10.1145/12276.13321)  | ACM | PLDI (SCC) | C | 1986 | A, E |
 | [Direct parallelization of call statements](https://doi.org/10.1145/13310.13329) | ACM | PLDI (SCC) | C | 1986 | O, S |
 | Code motion of control structures in high-level languages | ACM | POPL | C | 1986 | E, M |
 | [Automatic inference and fast interpretation of peephole optimization rules](https://doi.org/10.1145/364995.365000) | Wiley | SPE | J | 1987 | E |
@@ -235,7 +235,7 @@ Type:
 | [Sharlit—a tool for building optimizers](https://doi.org/10.1145/143103.143120) | ACM | PLDI | C | 1992 | A |
 | How to analyze large programs efficiently and informatively | ACM | PLDI | C | 1992 | A |
 | Compiler code transformations for superscalar-based high performance systems | IEEE | SC | C | 1992 | A |
-| Engineering a simple, efficient code-generator generator  | ACM | TOPLAS (LOPLAS) | J | 1992 | D |
+| [Engineering a simple, efficient code-generator generator](https://doi.org/10.1145/151640.151642)  | ACM | TOPLAS (LOPLAS) | J | 1992 | D |
 | Some efficient solutions to the affine scheduling problem. I. One-dimensional time | Elsevier | JPP | J | 1992 | D |
 | [Avoiding unconditional jumps by code replication](https://doi.org/10.1145/143095.143144) | ACM | PLDI | C | 1992 | E |
 | [Rematerialization](https://doi.org/10.1145/143103.143143) | ACM | PLDI | C | 1992 | E |
@@ -279,7 +279,7 @@ Type:
 | [Link-time optimization of address calculation on a 64-bit architecture](https://doi.org/10.1145/178243.178248) | ACM | PLDI | C | 1994 | A |
 | Effective partial redundancy elimination | ACM | PLDI | C | 1994 | A |
 | Partial dead code elimination | ACM | PLDI | C | 1994 | A |
-| A general data dependence test for dynamic, pointer-based data structures  | ACM | PLDI | C | 1994 | A |
+| [A general data dependence test for dynamic, pointer-based data structures](https://doi.org/10.1145/178243.178262)  | ACM | PLDI | C | 1994 | A |
 | Instruction scheduling over regions: A framework for scheduling across basic blocks | Springer | CC | C | 1994 | A |
 | [Value dependence graphs: representation without taxation](https://doi.org/10.1145/174675.177907) | ACM | POPL | C | 1994 | A |
 | [Zero-cost range splitting](https://doi.org/10.1145/773473.178420) | ACM | PLDI | C | 1994 | E |
@@ -301,7 +301,7 @@ Type:
 | [Improving balanced scheduling with compiler optimizations that increase instruction-level parallelism](https://doi.org/10.1145/223428.207132) | ACM | PLDI | C | 1995 | A |
 | [Accurate static branch prediction by value range propagation](https://doi.org/10.1145/207110.207117) | ACM | PLDI | C | 1995 | A |
 | [Tile size selection using cache organization and data layout](https://doi.org/10.1145/207110.207162) | ACM | PLDI | C | 1995 | E |
-| Combining analyses, combining optimizations  | ACM | TOPLAS | J | 1995 | E |
+| [Combining analyses, combining optimizations](https://doi.org/10.1145/201059.201061)  | ACM | TOPLAS | J | 1995 | E |
 | [Global code motion/global value numbering](https://doi.org/10.1145/207110.207154) | ACM | PLDI | C | 1995 | E |
 | A linear time algorithm for placing φ-nodes | ACM | POPL | C | 1995 | O |
 | Points-to analysis in linear time | ACM | POPL | C | 1996 | D |
