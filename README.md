@@ -233,13 +233,13 @@ Type:
 | [An experiment with inline substitution](https://doi.org/10.1002/spe.4380210602) | Wiley | SPE | J | 1991 | E, S |
 | Integrating scalar optimization and parallelization | Springer | LCPC | C | 1992 | A |
 | [Sharlit—a tool for building optimizers](https://doi.org/10.1145/143103.143120) | ACM | PLDI | C | 1992 | A |
-| How to analyze large programs efficiently and informatively | ACM | PLDI | C | 1992 | A |
+| [How to analyze large programs efficiently and informatively](https://doi.org/10.1145/143095.143142) | ACM | PLDI | C | 1992 | A |
 | Compiler code transformations for superscalar-based high performance systems | IEEE | SC | C | 1992 | A |
 | [Engineering a simple, efficient code-generator generator](https://doi.org/10.1145/151640.151642)  | ACM | TOPLAS (LOPLAS) | J | 1992 | D |
 | Some efficient solutions to the affine scheduling problem. I. One-dimensional time | Elsevier | JPP | J | 1992 | D |
 | [Avoiding unconditional jumps by code replication](https://doi.org/10.1145/143095.143144) | ACM | PLDI | C | 1992 | E |
 | [Rematerialization](https://doi.org/10.1145/143103.143143) | ACM | PLDI | C | 1992 | E |
-| Coloring register pairs | ACM | TOPLAS (LOPLAS) | J | 1992 | E |
+| [Coloring register pairs](https://doi.org/10.1145/131080.131082) | ACM | TOPLAS (LOPLAS) | J | 1992 | E |
 | Optimizing for parallelism and data locality | ACM | SC | C | 1992 | O |
 | Maximizing loop parallelism and improving data locality via loop fusion and distribution | ACM | LCPC | W | 1992 | O |
 | [Beyond induction variables](https://doi.org/10.1145/143103.143131) | ACM | PLDI | C | 1992 | O |
@@ -253,11 +253,11 @@ Type:
 | [A practical algorithm for exact array dependence analysis](https://doi.org/10.1145/135226.135233) | ACM | CACM | J | 1992 | O, S |
 | [Array privatization for parallel execution of loops](https://doi.org/10.1145/143369.143426) | ACM | ICS | C | 1992 | O, S |
 | [The power test for data dependence](https://doi.org/10.1145/143103.143129) | IEEE | TCO | J | 1992 | A, S |
-| Eliminating branches using a superoptimizer and the GNU C compiler | ACM | PLDI | C | 1992 | E, S |
+| [Eliminating branches using a superoptimizer and the GNU C compiler](https://doi.org/10.1145/143095.143146) | ACM | PLDI | C | 1992 | E, S |
 | [Design and evaluation of a compiler algorithm for prefetching](https://doi.org/10.1145/143371.143488) | ACM | ASPLOS | C | 1992 | D, O |
 | [Dependence-based program analysis](https://doi.org/10.1145/155090.155098) | ACM | PLDI | C | 1993 | A |
 | [A variation of Knoop, R{"u}thing, and Steffen's lazy code motion](https://doi.org/10.1145/143103.143136)  | ACM | PLDI | C | 1993 | E |
-| Lazy strength reduction | C&H | JPL | J | 1993 | A, E |
+| [Lazy strength reduction](https://doi.org/10.1007/BF01681123) | C&H | JPL | J | 1993 | A, E |
 | Collective loop fusion for array contraction | Springer | LCPC | C | 1993 | O |
 | [Interprocedural constant propagation: an empirical study](https://doi.org/10.1145/176454.176526) | ACM | TOPLAS (LOPLAS) | J | 1993 | O |
 | Symbolic analysis: A basis for parallelization, optimization, and scheduling of programs  | Springer | LCPC | W | 1993 | O |
@@ -265,20 +265,20 @@ Type:
 | [Automatic array alignment in data-parallel programs](https://doi.org/10.1145/158511.158515) | ACM | POPL | C | 1993 | S |
 | Global optimizations for parallelism and locality on scalable parallel machines | ACM | PLDI | C | 1993 | S |
 | [Instruction-Level Parallel Processing: History, Overview, and Perspective](https://doi.org/10.1007/978-1-4615-3200-2_3)  | Springer | JSC | J | 1993 | S |
-| A practical system for intermodule code optimization at link-time | C&H | JPL | J | 1993 | A |
+| [A practical system for intermodule code optimization at link-time](https://doi.org/10.1006/jpl.1993.1001) | C&H | JPL | J | 1993 | A |
 | Loop-level parallelism in numeric and symbolic programs | IEEE | TPDS | J | 1993 | S |
 | [Orchestrating interactions among parallel computations](https://doi.org/10.1145/173262.155100) | ACM | PLDI | C | 1993 | S |
 | The superblock: an effective technique for VLIW and superscalar compilation | Springer | JSC | J | 1993 | S |
 | [Optimizing array bound checks using flow analysis](https://doi.org/10.1145/176454.176507) | ACM | PLDI | C | 1993 | A, E |
 | [Register allocation with instruction scheduling](https://doi.org/10.1145/173262.155114) | ACM | PLDI | C | 1993 | A, E |
-| A methodology for procedure cloning | Elsevier | COLA (COMLAN) | J | 1993 | A, O, S |
-| Efficient flow-sensitive interprocedural computation of pointer-induced aliases and side effects | ACM | POPL | C | 1993 | E, O, S |
+| [A methodology for procedure cloning](https://doi.org/10.1016/0096-0551(93)90006-J) | Elsevier | COLA (COMLAN) | J | 1993 | A, O, S |
+| [Efficient flow-sensitive interprocedural computation of pointer-induced aliases and side effects](https://doi.org/10.1145/158511.158639) | ACM | POPL | C | 1993 | E, O, S |
 | [Automatic array privatization](https://doi.org/10.1145/158511.158515) | Springer | LCPC | W | 1993 | O, S |
-| Interprocedural modification side effect analysis with pointer aliasing | ACM | PLDI | C | 1993 | M, S |
-| Branch prediction for free | ACM | PLDI | C | 1993 | A, M |
+| [Interprocedural modification side effect analysis with pointer aliasing](https://doi.org/10.1145/155090.155102) | ACM | PLDI | C | 1993 | M, S |
+| [Branch prediction for free](https://doi.org/10.1145/155090.155119) | ACM | PLDI | C | 1993 | A, M |
 | [Link-time optimization of address calculation on a 64-bit architecture](https://doi.org/10.1145/178243.178248) | ACM | PLDI | C | 1994 | A |
-| Effective partial redundancy elimination | ACM | PLDI | C | 1994 | A |
-| Partial dead code elimination | ACM | PLDI | C | 1994 | A |
+| [Effective partial redundancy elimination](https://doi.org/10.1145/178243.178257) | ACM | PLDI | C | 1994 | A |
+| [Partial dead code elimination](https://doi.org/10.1145/178243.178258) | ACM | PLDI | C | 1994 | A |
 | [A general data dependence test for dynamic, pointer-based data structures](https://doi.org/10.1145/178243.178262)  | ACM | PLDI | C | 1994 | A |
 | Instruction scheduling over regions: A framework for scheduling across basic blocks | Springer | CC | C | 1994 | A |
 | [Value dependence graphs: representation without taxation](https://doi.org/10.1145/174675.177907) | ACM | POPL | C | 1994 | A |
