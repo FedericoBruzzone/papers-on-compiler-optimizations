@@ -18,6 +18,19 @@ The [latex folder](./latex/) contains the source files used to generate the PDF:
 - a [BibTeX file](./latex/local.bib) with all bibliographic entries ready for citation purpose.
 </details>
 
+> [!TIP]
+> If you find this repository useful for your research or studies, please consider citing it:
+> ```bibtex
+> @misc{Bruzzone2025papers,
+>   author = {Bruzzone, Federico},
+>   title = {Papers on Compiler Optimizations: Analysis and Transformations (1952-1994)},
+>   about = {A chronologically sorted list of influential papers on compiler optimization, from the seminal works of 1952 through the advanced techniques of 1994},
+>   howpublished = {\url{https://github.com/FedericoBruzzone/papers-on-compiler-optimizations}},
+>   note = {GitHub Repository},
+>   year = {2025},
+> }
+> ```
+
 # Table of Papers
 
 **Key for Columns**
