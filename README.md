@@ -59,6 +59,7 @@ Type:
 | [Analysis of Programs for Parallel Processing](https://doi.org/10.1109/PGEC.1966.264565) | IEEE | TC (TEC) | J | 1966 | O |
 | [Program optimization](https://doi.org/10.1145/68182.68200) | - | PP | C | 1966 | A, D, E, M, O, S |
 | [Object code optimization](https://doi.org/10.1145/362835.362838) | ACM | CACM | J | 1969 | A, D, E |
+| [Expression optimization using unary complement operators](http://dx.doi.org/10.1145/800028.808485) | ACM | PLDI (SCO) | C | 1970 | E |
 | [Local optimizations](https://doi.org/10.1145/390013.808484) | ACM | PLDI (SCO) | C | 1970 | E |
 | [Detection and parallel execution of independent instructions](https://doi.org/10.1109/T-C.1970.222795) | IEEE | TCO | J | 1970 | S |
 | [Global common subexpression elimination](https://doi.org/10.1145/800028.808480) | ACM | PLDI (SCO) | C | 1970 | D, E, M |
