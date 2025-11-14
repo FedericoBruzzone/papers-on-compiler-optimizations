@@ -72,6 +72,7 @@ Type:
 | A global flow analysis algorithm | T&F | JCM | J | 1972 | E |
 | [Safety of code motion](https://doi.org/10.1080/00207167208803056) | T&F | JCM | J | 1972 | O |
 | [On the Number of Operations Simultaneously Executable in Fortran-Like Programs and Their Resulting Speedup](https://doi.org/10.1109/T-C.1972.223501) | IEEE | TCO | J | 1972 | D, O |
+| [Complete register allocation problems](https://doi.org/10.1145/800125.80404) | ACM | STOC | C | 1973 | - |
 | [Testing flow graph reducibility](https://doi.org/10.1145/800125.804040) | ACM | STOC | C | 1973 | A |
 | [A unified approach to global program optimization](https://doi.org/10.1145/512927.512945) | ACM | POPL | C | 1973 | A, D, E, M, O, S |
 | Fast algorithms for the elimination of common subexpressions | Springer | Acta Inf. | J | 1973 | A, D, E, O |
