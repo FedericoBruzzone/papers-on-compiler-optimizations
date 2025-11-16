@@ -91,6 +91,7 @@ Type:
 | [Recursion analysis for compiler optimization](https://doi.org/10.1145/360336.360341) | ACM | CACM | J | 1976 | O |
 | [Optimal Code Generation for Expression Trees](https://doi.org/10.1145/321958.321970) | ACM | JACM | J | 1976 | A, D, E |
 | [A Fast and Usually Linear Algorithm for Global Flow Analysis](https://doi.org/10.1145/321921.321939) | ACM | JACM | J | 1976 | E, O |
+| [An efficient resource-constrained global scheduling technique for superscalar and VLIW processors](https://doi.org/10.1145/144965.145000) | ACM | MICRO | W | 1992 | - |
 | [Code generation for expressions with common subexpressions](https://doi.org/10.1145/321992.322001) | ACM | POPL | C | 1976 | E, S |
 | [Global data flow analysis and iterative algorithms](https://doi.org/10.1145/321921.321938) | ACM | JACM | J | 1976 | E, O |
 | [Compiler Analysis of the Value Ranges for Variables](https://doi.org/10.1109/TSE.1977.231133) | IEEE | TSE | J | 1977 | - |
