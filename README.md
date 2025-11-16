@@ -133,6 +133,7 @@ Type:
 | A composite hoisting-strength reduction transformation for global program optimization part i | T&F | JCM | J | 1982 | E |
 | [Optimization of range checking](https://doi.org/10.1145/800230.806986) | ACM | PLDI (SCC) | C | 1982 | E |
 | [Register allocation and spilling via graph coloring](https://doi.org/10.1145/872726.806984) | ACM | PLDI | C | 1982 | A, D, E, M, O, S |
+| [Smallest-last ordering and clustering and graph coloring algorithms](https://doi.org/10.1145/2402.322385) | ACM | JACM | J | 1983 | - |
 | [Experience with the SETL optimizer](https://doi.org/10.1145/357195.357197) | ACM | TOPLAS | J | 1983 | S |
 | [Postpass Code Optimization of Pipeline Constraints](https://doi.org/10.1145/2166.357217) | ACM | TOPLAS | J | 1983 | A, E |
 | [Conversion of control dependence to data dependence](https://doi.org/10.1145/567067.567085) | ACM | POPL | C | 1983 | O, S |
