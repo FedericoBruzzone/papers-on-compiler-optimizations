@@ -163,7 +163,7 @@ Type:
 | [Highly concurrent scalar processing](https://doi.org/10.1145/17356.17401) | ACM | CAN | J | 1986 | O |
 | [Multiplication by integer constants](https://doi.org/10.1002/spe.4380160704) | Wiley | SPE | J | 1986 | S |
 | [Global register allocation at link time](https://doi.org/10.1145/12276.13338) | ACM | PLDI | C | 1986 | A, E |
-| [Interprocedural constant propagation](https://doi.org/10.1145/176454.176526) | ACM | PLDI | C | 1986 | A, D, E, O, S |
+| [Interprocedural constant propagation](https://doi.org/10.1145/13310.13327) | ACM | PLDI | C | 1986 | A, D, E, O, S |
 | [Interprocedural optimization: eliminating unnecessary recompilation](https://doi.org/10.1145/12276.13317) | ACM | CC | C | 1986 | A, E, O |
 | Interprocedural dependence analysis and parallelization | ACM | PLDI | C | 1986 | O, S |
 | [Effectiveness of a machine-level, global optimizer](https://doi.org/10.1145/12276.13321)  | ACM | PLDI (SCC) | C | 1986 | A, E |
