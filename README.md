@@ -75,7 +75,7 @@ Type:
 | [Complete register allocation problems](https://doi.org/10.1145/800125.80404) | ACM | STOC | C | 1973 | - |
 | [Testing flow graph reducibility](https://doi.org/10.1145/800125.804040) | ACM | STOC | C | 1973 | A |
 | [A unified approach to global program optimization](https://doi.org/10.1145/512927.512945) | ACM | POPL | C | 1973 | A, D, E, M, O, S |
-| Fast algorithms for the elimination of common subexpressions | Springer | Acta Inf. | J | 1973 | A, D, E, O |
+| [Fast algorithms for the elimination of common subexpressions](https://link.springer.com/article/10.1007/BF00289078) | Springer | Acta Inf. | J | 1973 | A, D, E, O |
 | [Interprocedural Analysis and the Information derived by it](https://doi.org/10.1007/BF00264216) | Springer | Prog. Meth. | J | 1974 | - |
 | [Register allocation via usage counts](https://doi.org/10.1145/361179.361201) | ACM | CACM | J | 1974 | A |
 | [Analysis of structured programs](https://doi.org/10.1145/800125.804055) | ACM | STOC | C | 1974 | D |
