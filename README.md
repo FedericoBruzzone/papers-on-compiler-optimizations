@@ -52,7 +52,9 @@ Type:
 |---|---|---|---|---|---|
 | [The problem of simplifying truth functions](https://doi.org/10.1080/00029890.1952.11988183) | T&F | AMM | J | 1952 | O |
 | [Minimization of Boolean functions](https://doi.org/10.1002/j.1538-7305.1956.tb03835.x) | Bell Labs | Bell System Tech. J. | J | 1956 | O |
+| [The FORTRAN automatic coding system](https://doi.org/10.1145/1455567.1455599) | - | WJCC | C | 1957 | - |
 | [An algorithm for translating Boolean expressions](https://doi.org/10.1145/321119.321121) | ACM | JACM | J | 1962 | S |
+| [A programming language](https://doi.org/10.1145/1460833.1460872) | ACM | AFIPS (SJCC) | C | 1962 | - |
 | [High speed compilation of efficient object code](https://doi.org/10.1145/365474.365489) | ACM | CACM | J | 1965 | D |
 | [Peephole optimization](https://doi.org/10.1145/364995.365000) | ACM | CACM | J | 1965 | E |
 | [Index Register Allocation](https://doi.org/10.1145/321312.321317) | ACM | JACM | J | 1966 | E |
@@ -211,7 +213,8 @@ Type:
 | [Perfect pipelining: A new loop parallelization technique](https://doi.org/10.1007/3-540-19027-9_15) | Springer | ESOP | C | 1988 | A, S |
 | Code scheduling and register allocation in large basic blocks | ACM | SC | C | 1988 | A, E |
 | [Interprocedural side-effect analysis in linear time](https://doi.org/10.1145/62116.62125) | ACM | PLDI | C | 1988 | A, E, O |
-| [A technique for summarizing data access and its use in parallelism enhancing transformations](https://doi.org/10.1145/74818.74822) | ACM | PLDI | C | 1989 | - |
+| A mathematics of arrays | Syracuse | PhD Thesis | W | 1988 | - |
+| [A technique for summarizing data access and its use in parallelism enhancing transformations](https://doi.org/10.1145/74818.74822) | ACM | PLDI | C | 1989 | - |
 | [Interprocedural analysis vs. procedure integration](https://doi.org/10.1016/0020-0190(89)90014-8}) | Elsevier | IPL | J | 1989 | - |
 | Unified management of registers and cache using liveness and cache bypass | ACM | PLDI | C | 1989 | A |
 | A new algorithm for composite hoisting and strength reduction optimisation | T&F | JCM | J | 1989 | E |
@@ -406,6 +409,7 @@ Type:
 | [Ultra-fast Aliasing Analysis using CLA: A Million Lines of C Code in a Second](https://doi.org/10.1145/381694.378855) | ACM | PLDI | C | 2001 | D |
 | [A simple, fast dominance algorithm](https://www.cs.tufts.edu/~nr/cs257/archive/keith-cooper/dom14.pdf)  | Wiley | SPE | J | 2001 | E, O |
 | [Operator Strength Reduction](https://doi.org/10.1145/504709.504710) | ACM | TOPLAS | J | 2001 | A, E |
+| [An Efficient Semi-Hierarchical Array Layout](https://doi.org/10.1007/978-1-4757-3337-2_2) | Springer | ICCA | C | 2001 | - |
 | [Symbolic pointer analysis](https://doi.org/10.1145/996893.996860) | IEEE | ICCAD | C | 2002 | D |
 | [Cloning-based context-sensitive pointer alias analysis using binary decision diagrams](https://doi.org/10.1145/996841.996859) | ACM | PLDI | C | 2004 | D |
 | [Symbolic pointer analysis Revisited](https://doi.org/10.1145/996893.996860) | ACM | PLDI | C | 2004 | D |
